@@ -1,7 +1,6 @@
 
 
 
-
 <h2>Languages</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts)](https://skillicons.dev)
