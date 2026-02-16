@@ -3,7 +3,7 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,ts)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
@@ -16,3 +16,4 @@
 <h2>Tools</h2>
  
 [![My Skills](https://skillicons.dev/icons?i=postman,git,aws,cloudflare)](https://skillicons.dev)
+
